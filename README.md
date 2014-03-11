@@ -1,4 +1,4 @@
-dropwizard-helloworld
+dropwizard-helloworld working on webhooks
 =====================
 
 $ mvn clean package
